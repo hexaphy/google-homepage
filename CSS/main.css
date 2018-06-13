@@ -1,0 +1,195 @@
+body {
+  background-color: #FFFFFF;
+  font-family: arial, sans-serif;
+}
+
+header {
+  margin-right: 20px;
+  margin-top: 15px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: right;
+  font-family: arial;
+  font-size: 13px
+}
+
+li {
+  display: inline;
+  color: rgba(0, 0, 0, 0.87);
+  text-decoration: none;
+}
+
+li a {
+  text-decoration: none;
+}
+
+div {
+  display: block;
+}
+
+.space {
+  padding-right: 10px
+}
+
+.applogo {
+  background-position: -132px -38px;
+  opacity: .55;
+  display: inline-block;
+  outline: none;
+  vertical-align: middle;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  height: 30px;
+  width: 30px;
+}
+
+button {
+  border: 1px solid #4285f4;
+  font-weight: bold;
+  outline: none;
+  background: #4285f4;
+  background: -webkit-linear-gradient(top, #4387fd, #4683ea);
+  background: linear- display: inline-block;
+  line-height: 28px;
+  padding: 0 12px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  color: white;
+}
+
+.logo {
+  margin-top: 150px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+  width: 300px margin-top: 150px;
+}
+
+.center {
+  text-align: -webkit-center;
+}
+
+.searchbar {
+  display: block;
+  margin: auto;
+  width: 484px;
+  max-width: 75%;
+  height: 35px;
+  border: 1px solid #D1D1D1;
+  margin-bottom: 30px;
+  border-radius: 2px;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 0 1px rgba(0, 0, 0, 0.08);
+  transition: box-shadow 200ms cubic-bezier(0.4, 0.0, 0.2, 1);
+}
+
+input {
+  background-image: -webkit-linear-gradient(#f5f5f5, #f1f1f1);
+  background-image: -o-linear-gradient(#f5f5f5, #f1f1f1);
+  background-image: linear-gradient(#f5f5f5, #f1f1f1);
+  -webkit-border-radius: 2px;
+  -webkit-user-select: none;
+  background-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
+  border-radius: 2px;
+  color: #757575;
+  cursor: default;
+  font-family: arial, sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  margin: 11px 4px;
+  min-width: 54px;
+  padding: 0 16px;
+  text-align: center;
+}
+
+input, textarea, select, user agent stylesheet, button, meter, progress {
+  -webkit-writing-mode: horizontal-tb !imant;
+}
+
+input, textarea, select, buttons {
+  text-rendering: auto;
+  color: initial;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  text-indent: 0px;
+  text-shadow: none;
+  display: inline-block;
+  text-align: start;
+  margin: 0em;
+  font: 400 13.3333px Arial;
+}
+
+input {
+  padding-top: 18px
+  height: 36px;
+  line-height: 27px;
+}
+
+input[type=submit] {
+  border: none;
+  height: 40px;
+  font-weight: bold;
+  color: grey;
+}
+
+.space-lol {
+  margin-top: 25px;
+}
+
+.fromwhere {
+  margin-top: 25px
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  min-width: 300px;
+  display: block;
+  background-color: #F2F2F2;
+}
+
+.country {
+  display: block;
+  border-bottom: 1px solid #E6E6E6;
+  height: 20px;
+  margin-bottom: 0;
+  font-size: 15px;
+  padding-left: 30px;
+  padding-bottom: 10px;
+  font-family: arial;
+  text-align: left;
+}
+
+.left {
+  float: left;
+  display: inline-block;
+  padding-left: 30px;
+  padding-top: 10px;
+  width: 100%;
+  text-align: left;
+  height: 30px;
+  font-size: 13px;
+  font-family: arial;
+
+}
+
+.right {
+  float: right;
+  padding-right: 60px;
+  padding-bottom: 15px
+  font-size: 13px;
+  font-family: arial;
+}
+
+.space-bottom {
+  padding-right: 15px
+}
